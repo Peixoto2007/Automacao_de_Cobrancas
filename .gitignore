@@ -1,0 +1,4 @@
+venv/
+erros.csv
+__pycache__/
+*.pyc
